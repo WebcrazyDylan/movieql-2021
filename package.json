@@ -1,0 +1,9 @@
+{
+  "name": "movieql-2021",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/WebcrazyDylan/movieql-2021",
+  "author": "Dylan Park",
+  "license": "MIT"
+}
